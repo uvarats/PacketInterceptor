@@ -7,6 +7,9 @@ using PacketDotNet;
 using SharpPcap.LibPcap;
 using System.Diagnostics;
 
+// архитектура проекта наелась и спит
+
+
 namespace WinformsExample
 {
     public partial class CaptureForm : Form
